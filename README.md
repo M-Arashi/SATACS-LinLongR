@@ -13,7 +13,7 @@ Fixed-effects regression (review of regression), Mixed-effects regression (inclu
 Outcomes:
 Familiarity with advanced R for statistical machine learning, and a broad range of linear and longitudinal data analysis techniques, including GLMs, penalized methods, and mixed effects modeling.
 
-Lecture format:
+**Lecture format**:
 Pre-recorded videos [available here](https://drive.google.com/drive/folders/16J7AaNZlbMokeZ8C8nIThDy46CR1TED2?usp=sharing) and online Q&A
 
 Synchronous contact:
