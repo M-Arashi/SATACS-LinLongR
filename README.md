@@ -3,16 +3,22 @@ This repository includes the planner, lecture notes for the South African Theory
 
 Lecturer:
 Prof Mohammad Arashi
+
 Course dates:
 1 March – 30 July 2026
+
 Abstract:
 Fixed-effects regression (review of regression), Mixed-effects regression (including random effect), Longitudinal data analysis (allowing correlated data), Generalized linear models (with focus on longitudinal model), Penalized linear model, Ridge regression, LASSO regression, and a taste of Artificial neural network (ANN).
+
 Outcomes:
 Familiarity with advanced R for statistical machine learning, and a broad range of linear and longitudinal data analysis techniques, including GLMs, penalized methods, and mixed effects modeling.
+
 Lecture format:
 Pre-recorded videos and online Q&A
+
 Synchronous contact:
 Real-time classes will be held on platforms such as Zoom or Microsoft Teams, enabling interactive lectures, demonstrations, and discussions.
+
 Student Assessment:
 Writing assignments and final evaluation
  
