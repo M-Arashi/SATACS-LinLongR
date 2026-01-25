@@ -14,7 +14,7 @@ Outcomes:
 Familiarity with advanced R for statistical machine learning, and a broad range of linear and longitudinal data analysis techniques, including GLMs, penalized methods, and mixed effects modeling.
 
 **Lecture format**:
-Pre-recorded videos [available here](https://drive.google.com/drive/folders/16J7AaNZlbMokeZ8C8nIThDy46CR1TED2?usp=sharing) and online Q&A - Refer to the *Planner* for the use and format of lectures. 
+Pre-recorded videos [available here](https://drive.google.com/drive/folders/16J7AaNZlbMokeZ8C8nIThDy46CR1TED2?usp=sharing) and online Q&A - Refer to the *Planner* for use. 
 
 Synchronous contact:
 Real-time classes will be held on platforms such as Zoom or Microsoft Teams, enabling interactive lectures, demonstrations, and discussions.
