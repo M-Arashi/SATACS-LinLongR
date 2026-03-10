@@ -13,8 +13,7 @@ Fixed-effects regression (review of regression), Mixed-effects regression (inclu
 Outcomes:
 Familiarity with advanced R for statistical machine learning, and a broad range of linear and longitudinal data analysis techniques, including GLMs, penalized methods, and mixed effects modeling.
 
-**Lecture format**:
-Pre-recorded videos [available here](https://drive.google.com/drive/folders/16J7AaNZlbMokeZ8C8nIThDy46CR1TED2?usp=sharing) and online Q&A - Refer to the *Planner* for use. 
+All course materials are now organized directly in this folder and no longer need to be downloaded as a single ZIP file. The folders **Slides**, **R Labs**, and **Practicals** contain the supporting materials for the course, while each session folder (for example, **Session 1 (Week 1 - Part A)**, **Session 1 (Week 1 - Part B)**, etc.) contains the materials specific to that class. Video recordings are available separately through this [link](https://drive.google.com/drive/folders/16J7AaNZlbMokeZ8C8nIThDy46CR1TED2?usp=sharing).
 
 Synchronous contact:
 Real-time classes will be held on platforms such as Zoom or Microsoft Teams, enabling interactive lectures, demonstrations, and discussions.
